@@ -1,3 +1,3 @@
-# js-pak-youtube
+# java script learning
 A code repo for java script Learning
 
